@@ -1,16 +1,10 @@
 # booktickets
 
-A new Flutter project.
+## I'm very happy to share this great acchivement
+I developed the second FLUTTER APP. Which is the BOOK-TICKET APP. 
 
-## Getting Started
+I have share the link below. where I learn this type of understading for FLUTTER
 
-This project is a starting point for a Flutter application.
+![1 (2)](https://user-images.githubusercontent.com/112762975/219709133-c21833ed-bbb1-4056-8099-f54861dcae13.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link 📌 https://youtu.be/71AsYo2q_0Y
